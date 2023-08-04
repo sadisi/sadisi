@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R.P.D.S.Vilochana Rajapaksha</h1>
-<h3 align="center">I am an undergraduate student in BSC(Hons) Software Engineering at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
+<h3 align="center">I am a  Software Engineering  Student at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadisi&label=Profile%20views&color=0e75b6&style=flat" alt="sadisi" /> </p>
 
