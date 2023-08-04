@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajapak06573648" target="blank"><img src="https://img.shields.io/twitter/follow/rajapak06573648?logo=twitter&style=for-the-badge" alt="rajapak06573648" /></a> </p>
 <img align ="right" alt ="coding" width="500" src="https://raw.githubusercontent.com/sadisi/sadisi/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a47385357414.gif">
-- 🌱 I’m currently learning **Programming Languages & Frameworks etc..**
+- 🌱 I’m currently learning **Programming Languages & Frameworks etc...**
 
 - 👯 I’m looking to collaborate on **DSA & Java etc...**
 
