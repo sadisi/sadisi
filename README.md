@@ -21,15 +21,14 @@
 
 - 👯 I’m looking to collaborate on **DSA & Java etc...**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon](This feature is coming soon)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on [coming soon](This feature is coming soon )
 
 - 💬 Ask me about **Programming C, C#,DBMS, Web Developement, DSA ,JAVA...**
 
 - 📫 How to reach me **sadisi.rajapaksha218346@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
