@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm R.P.D.S.Vilochana Rajapaksha</h1>
 <h3 align="center">I am a Software Engineering Student at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
 
+<!--Profile Views 2nd Animated -->
 [![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!--Profile Views 2nd Animated  end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadisi&label=Profile%20views&color=0e75b6&style=flat" alt="sadisi" /> </p>
 
@@ -11,6 +13,10 @@
 <p align="left"> <a href="https://twitter.com/rajapak06573648" target="blank"><img src="https://img.shields.io/twitter/follow/rajapak06573648?logo=twitter&style=for-the-badge" alt="rajapak06573648" /></a> </p>
 
 <img align ="right" alt ="coding" width="500" src="https://raw.githubusercontent.com/sadisi/sadisi/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a47385357414.gif">
+
+
+<img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
+
 
 - 🌱   I’m currently learning **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗲𝘁𝗰...**
 
