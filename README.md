@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm R.P.D.S.Vilochana Rajapaksha</h1>
 <h3 align="center">I am a Software Engineering Student at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
 
+[![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadisi&label=Profile%20views&color=0e75b6&style=flat" alt="sadisi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadisi" alt="sadisi" /></a> </p>
