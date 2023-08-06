@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm R.P.D.S.Vilochana Rajapaksha</h1>
 <h3 align="center">I am a Software Engineering Student at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
 
-<img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 <!--Profile Views 2nd Animated -->
 [![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!--Profile Views 2nd Animated  end -->
+
+<img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadisi&label=Profile%20views&color=0e75b6&style=flat" alt="sadisi" /> </p>
 
