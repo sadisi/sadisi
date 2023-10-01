@@ -2,9 +2,6 @@
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+R.P.D.S.Vilochana+Rajapaksha" alt="Typing SVG" /></a></center>
 <h3 align="center">I am an undergraduate student in BSC (Hons) Software Engineering at the University of Plymouth (UK). I am a hard worker with a passion for robotics and software development fields.</h3>
 
-<!--Profile Views 2nd Animated -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+R.P.D.S.Vilochana+Rajapaksha" alt="Typing SVG" /></a>
-<!--Profile Views 2nd Animated  end -->
 
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
