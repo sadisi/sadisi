@@ -41,16 +41,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,dotnet,cs,cpp,flutter,kotlin,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,linux,nodejs,bootstrap,git,gitlab,azure,aws,vscode,visualstudio,idea,xd,pr,ps,figma" />
   </a>
 </p>
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadisi&show_icons=true&locale=en&layout=compact" alt="sadisi" /></p>
