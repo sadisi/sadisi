@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,flutter,kotlin,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,bootstrap,git,gitlab,azure,vscode,visualstudio,idea,xd,pr,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,cpp,flutter,kotlin,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,bootstrap,git,gitlab,azure,aws,vscode,visualstudio,idea,xd,pr,ps,figma" />
   </a>
 </p>
 
