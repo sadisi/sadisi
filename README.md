@@ -1,6 +1,6 @@
 <img align ="center" alt ="Banner" src="https://github.com/sadisi/sadisi/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm R.P.D.S.Vilochana Rajapaksha</h1>
-<h3 align="center">I am a Software Engineering Student at the University of Plymouth (UK) A hard worker with a passion for Robotics and Neural Systems (RNS) and the software development fields.</h3>
+<h3 align="center">I am an undergraduate student in BSC (Hons) Software Engineering at the University of Plymouth (UK). I am a hard worker with a passion for robotics and software development fields.</h3>
 
 <!--Profile Views 2nd Animated -->
 [![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
