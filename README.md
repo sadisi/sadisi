@@ -9,19 +9,6 @@
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
 
-- 🌱   I’m currently learning **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗲𝘁𝗰...**
-
-- 👯 I’m looking to collaborate on **DSA & Java etc...**
-
-- 👨‍💻 All of my projects are available at [Coming soon](This feature is coming soon)
-
-- 📝 I regularly write articles on [coming soon](This feature is coming soon )
-
-- 💬 Ask me about **Programming C, C#,DBMS, Web Developement, DSA ,JAVA...**
-
-- 📫 How to reach me **sadisi.rajapaksha218346@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajapak06573648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajapak06573648" height="30" width="40" /></a>
