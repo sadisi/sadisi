@@ -6,7 +6,7 @@
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
 
-<h3 align="left">Connect with me:</h3>
+<center><h3 align="left">Connect with me:</h3></center>
 <p align="left">
 <a href="https://twitter.com/rajapak06573648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajapak06573648" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r-p-d-s-vilochana-rajapaksha-a9b411182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-p-d-s-vilochana-rajapaksha-a9b411182" height="30" width="40" /></a>
