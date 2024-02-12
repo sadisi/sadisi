@@ -15,7 +15,4 @@
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadisi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadisi&show_icons=true&locale=en&layout=compact" alt="sadisi" /></p>
-
-
 
