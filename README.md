@@ -1,5 +1,4 @@
 <img align ="center" alt ="Banner" src="https://github.com/sadisi/sadisi/blob/main/Banner.png">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi, I'm+R.P.D.S.Vilochana+Rajapaksha" alt="Typing SVG" /></a>
 
 
 [![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
