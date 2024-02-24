@@ -1,7 +1,7 @@
 <img align ="center" alt ="Banner" src="https://github.com/sadisi/sadisi/blob/main/Banner.png">
 
 
-[![](https://visitcount.itsvg.in/api?id=sadisi&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
 
