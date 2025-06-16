@@ -6,7 +6,7 @@
 
 
 
-<img src="https://seeklogo.com/vector-logo/551962/microsoft-certified-badge.png" width="55" align="right" alt="Microsoft Certified Badge" />
+<img src="https://github.com/sadisi/sadisi/blob/main/mlsa.png" width=55px align="right" />
 
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  >&nbsp;&nbsp;Tech Stack
