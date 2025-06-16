@@ -12,7 +12,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  >&nbsp;&nbsp;Tech Stack
 
 
-I mainly work with .NET MVC Core / ASP.NET Core for backend development. I also use the MERN stack—which includes MongoDB, Express.js, React.js, and Node.js—as my secondary technology stack. My primary focus is on building robust web applications and software applications with these frameworks and tools.
+I mainly work with .NET MVC Core / ASP.NET Core for backend development. I also use the MERN stack which includes MongoDB, Express.js, React.js, and Node.js—as my secondary technology stack. My primary focus is on building robust web applications and software applications with these frameworks and tools.
 
 
 <p>
