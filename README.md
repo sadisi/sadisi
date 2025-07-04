@@ -15,6 +15,10 @@
 I mainly work with .NET MVC Core / ASP.NET Core for backend development. I also use the MERN stack which includes MongoDB, Express.js, React.js, and Node.js as my secondary technology stack. My primary focus is on building robust web applications and software applications with these frameworks and tools.
 
 
+<!-- Line  Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 <p>
   <!-- .NET Core MVC -->
 <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
