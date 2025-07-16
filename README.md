@@ -2,11 +2,15 @@
 
 
 
+<!-- github student -->
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
 
 
 
+<!-- Microsoft L:S:A -->
 <img src="https://github.com/sadisi/sadisi/blob/main/mlsa.png" width=55px align="right" />
+
+<!-- Nvidea dev -->
 
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  >&nbsp;&nbsp;Tech Stack
