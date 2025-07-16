@@ -32,6 +32,9 @@ I’m a Full Stack and AI Engineer currently working with full stack development
 <!-- C# -->
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
+<!-- Java -->
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
 <!-- MySQL -->
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
