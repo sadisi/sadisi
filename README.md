@@ -16,7 +16,9 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  >&nbsp;&nbsp;Tech Stack
 
 
-I mainly work with .NET MVC Core / ASP.NET Core for backend development. I also use the MERN stack which includes MongoDB, Express.js, React.js, and Node.js as my secondary technology stack. My primary focus is on building robust web applications and software applications with these frameworks and tools.
+I’m a Full Stack and AI Engineer currently working with full stack development, hyperautomation, AI, and machine learning. I specialize in full stack development using .NET MVC Core and ASP.NET Core, and also use the MERN stack for full stack projects. I’m passionate about building intelligent, efficient systems that combine software engineering with AI and automation technologies. (AI, ML, DL, Full Stack, and Hyperautomation )
+
+
 
 
 <!-- Line  Divider -->
