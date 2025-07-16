@@ -7,7 +7,7 @@
 
 
 
-<!-- Microsoft L:S:A -->
+<!-- Microsoft mlsa -->
 <img src="https://github.com/sadisi/sadisi/blob/main/mlsa.png" width=55px align="right" />
 
 <!-- Nvidea dev -->
