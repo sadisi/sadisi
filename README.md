@@ -3,7 +3,7 @@
 
 
 <!-- github student -->
-<img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
+<img src="https://user-images.githubusercontent.com/10102616/271837775-c15f2f8b-10b9-4eb9-9a75-52ef4820e7c1.png#gh-dark-mode-only" width=100px align="right"/>
 
 
 
