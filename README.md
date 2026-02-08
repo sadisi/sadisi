@@ -74,7 +74,7 @@ I’m a Full Stack and AI Engineer currently working with full stack development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,nodejs,react,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,vscode,visualstudio,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,nodejs,react,next,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,vscode,visualstudio,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
   </a>
 </p>
 
