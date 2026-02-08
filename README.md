@@ -16,7 +16,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  >&nbsp;&nbsp;About me
 
 
-I’m a Full Stack and AI Engineer currently working with full stack development, hyperautomation, RPA, Gen AI, and machine learning. I specialize in full stack development using .NET MVC Core and ASP.NET Core, and also use the MERN stack for full stack projects. I’m passionate about building intelligent, efficient systems that combine software engineering with AI and automation technologies. (AI, ML, DL, Full Stack,RPA and Hyperautomation )
+I’m a Full Stack and AI Engineer currently working with full stack development, Process Automation, RPA, Gen AI, and machine learning. I specialize in full stack development using .NET MVC Core and ASP.NET Core, and also use the MERN stack for full stack projects. I’m passionate about building intelligent, efficient systems that combine software engineering with AI and automation technologies. (AI, ML, DL, Full Stack,RPA and Hyperautomation )
 
 
 
@@ -74,7 +74,7 @@ I’m a Full Stack and AI Engineer currently working with full stack development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,py,arduino,raspberrypi,nodejs,react,next,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,vscode,visualstudio,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,postgres,py,selenium,arduino,raspberrypi,nodejs,react,next,express,ts,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,vscode,visualstudio,matlab,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
   </a>
 </p>
 
