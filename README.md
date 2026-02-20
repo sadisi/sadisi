@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Software%20Enginner%20|%20Gen%20AI%20&%20Process%20Automation&fontSize=50&reversal=false&textBg=false">
+</div>
 <!-- profile banner
 <img align ="center" alt ="Banner" src="https://github.com/sadisi/sadisi/blob/main/Banner.png"> -->
 
@@ -10,6 +14,8 @@
 
 <!-- Microsoft mlsa -->
 <img src="https://github.com/sadisi/sadisi/blob/main/mlsa.png" width=55px align="right" />
+
+
 
 <!-- Nvidea dev -->
 
@@ -85,7 +91,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,postgres,py,selenium,arduino,raspberrypi,nodejs,react,next,express,ts,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,vscode,visualstudio,matlab,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,ts,vue,androidstudio,c,js,html,css,php,mysql,postgres,py,tensorflow,d3,selenium,arduino,raspberrypi,nodejs,react,next,express,ts,bootstrap,tailwind,git,gitlab,azure,postman,mongodb,docker,firebase,supabase,gcp,firebase,cloudflare,vscode,visualstudio,matlab,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
   </a>
 </p>
 
