@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Software%20Enginner%20|%20Gen%20AI%20&%20Process%20Automation&fontSize=50&reversal=false&textBg=false">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Software%20Engineer%20|%20Gen%20AI%20&%20Process%20Automation&fontSize=50&reversal=false&textBg=false">
 </div>
 <!-- profile banner
 <img align ="center" alt ="Banner" src="https://github.com/sadisi/sadisi/blob/main/Banner.png"> -->
