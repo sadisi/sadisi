@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,rust,ts,vue,androidstudio,c,js,html,css,php,mysql,sqlite,postgres,py,tensorflow,d3,selenium,arduino,raspberrypi,nodejs,react,electron,next,express,ts,bootstrap,tailwind,git,gitlab,azure,postman,fastapi,mongodb,docker,firebase,supabase,gcp,firebase,cloudflare,vercel,vscode,visualstudio,matlab,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,cs,express,cpp,flutter,rust,ts,vue,c,js,html,css,php,mysql,sqlite,postgres,py,tensorflow,d3,selenium,arduino,raspberrypi,nodejs,react,electron,next,express,ts,bootstrap,tailwind,git,gitlab,azure,postman,fastapi,mongodb,docker,firebase,supabase,gcp,firebase,cloudflare,vercel,vscode,visualstudio,androidstudio,matlab,idea,pycharm,webstorm,clion,rider,xd,pr,ps,figma" />
   </a>
 </p>
 
